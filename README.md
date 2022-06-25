@@ -1,12 +1,12 @@
-# Movie Watchlist API Project
+# Movie Library Application
 
-A solo project from Scrimba (all code is from scratch). The only resource provided was a Figma design file and a link to use the [OMBb API](https://www.omdbapi.com/) and the following requirements:
+A simple web application which fetch the Movies from OMDB(https://omdbapi.com/), The Appication has following Properties:
+- User can search the Movies
+- User can create a List of his favourite Movies.
+- User Can make his list Public or Private which can be shared through Url
+Completely Built with 
+- Html [![HTML Badge](https://img.shields.io/badge/HTML-43853D?style=for-the-badge&logo=HTML&logoColor=white)](#)
+- CSS [![CSS Badge](https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=CSS&logoColor=white)](#) 
+- Javascript [![Javascript Badge](https://img.shields.io/badge/Javascript-43853D?style=for-the-badge&logo=Javascript&logoColor=white)](#) 
+- Bootstrap
 
--   Two pages - index.html and watchlist.html.
--   Index = search page. Calls to OMDB API with the title searched for and displays search results.
--   Button to "add to watchlist" which saves that data to local storage.
--   Watchlist.html loads and displays data from local storage.
-
-## Video Walkthrough
-
-In addition to coding this project, I've also [recorded a project walkthrough video](https://www.youtube.com/watch?v=KUUSwCAUF0k) that you can watch on YouTube.
