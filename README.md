@@ -1,6 +1,6 @@
 # Movie Library Application
 
-A simple web application which fetch the Movies from OMDB(https://omdbapi.com/), The Appication has following Properties:
+A simple web application which fetch the Movies from OMDB(https://omdbapi.com/), The Application has following Properties:
 - User can search the Movies
 - User can create a List of his favourite Movies.
 - User Can make his list Public or Private which can be shared through Url
